@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="KotlinJavaRuntime (2)">
+    <archive path="E:/software/intelliJIDEA/IntelliJ IDEA Community Edition 2017.1.2/plugins/Kotlin/kotlinc/lib/kotlin-runtime.jar" />
+    <archive path="E:/software/intelliJIDEA/IntelliJ IDEA Community Edition 2017.1.2/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" />
+  </library>
+</eclipse-userlibraries>
+
