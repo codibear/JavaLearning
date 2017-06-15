@@ -25,8 +25,7 @@ public class ConnectionDataBase {
             dog.setPname(scanner.next());
             System.out.println("请输入主人名字：");
             dog.setMname(scanner.next());
-            list.add(dog);
-        }
+         }
         new ConnectionDataBase().insetPetByO(list);
 
     }
