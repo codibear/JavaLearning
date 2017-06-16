@@ -12,7 +12,6 @@ public class DButilTest {
     static ResultSet rs=null;
     public static void main(String[] args) {
         DButil dButil =  new DButil();
-
        /*
        String sql = "insert into student(sid,studentNum,studentName,age,sex)values(?,?,?,?)";
 
