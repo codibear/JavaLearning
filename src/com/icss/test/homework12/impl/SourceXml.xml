@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--  Class.forName("com.mysql.jdbc.Driver");
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/mydatabase","root","root");-->
+<sql>
+    <classforname>com.mysql.jdbc.Driver</classforname>
+    <connection>jdbc:mysql://localhost:3306/mydatabase</connection>
+    <account>root</account>
+    <password>root</password>
+</sql>

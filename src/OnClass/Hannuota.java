@@ -8,7 +8,7 @@ public class Hannuota {
         train(3,'A','B','C');
     }
     public static void train(int n,char from,char temp,char to){
-        if(n==1){//为什么去验证这个1
+        if(n==1){//为什么去验证这个1-----归的思想，一定要出去，否则的话就该陷入无限循环中
             System.out.println(from +"-------->"+to);
         }else {
             //n-1个（上层的）从A到B借助C
